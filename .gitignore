@@ -1,0 +1,4 @@
+# your credentials — never commit them
+config.json
+*.pem
+.idea

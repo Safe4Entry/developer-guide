@@ -1,0 +1,5 @@
+{
+  "client_id": "s4e_cl_replace_me",
+  "api_key": "s4e_ak_replace_me",
+  "token_endpoint": "https://<s4e-host>/api/integration/oauth2/token"
+}

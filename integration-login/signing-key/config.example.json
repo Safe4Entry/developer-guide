@@ -1,0 +1,6 @@
+{
+  "client_id": "s4e_cl_replace_me",
+  "key_id": "k1",
+  "private_key_file": "/path/to/s4e-private.pem",
+  "token_endpoint": "https://<s4e-host>/api/integration/oauth2/token"
+}
